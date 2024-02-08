@@ -45,7 +45,7 @@ const HeroComp = () => {
             ref={videoRef}
             className="absolute top-0 left-0 z-20 h-[100vh] w-[100vw]"
           ></video>
-          <div className="absolute z-30 h-[100vh] w-[100vw] top-0 left-0 text-white bg-black bg-opacity-50">Overlay</div>
+          <div className="absolute z-30 h-[100vh] w-[100vw] top-0 left-0 text-white bg-black bg-opacity-50"></div>
           <div className="absolute z-30 top-[50%] left-[50%] transform -translate-x-[50%] -translate-y-[50%] text-white">
             <h3 className="font-poppins font-bold text-xl text-center">
               DIGITAL INVENTIVENESS
